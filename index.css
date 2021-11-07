@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(198, 201, 15);
+}
+
+#button_container
+{
+height:480px;
+width:98vw;
+display:grid;
+grid-template-columns: auto auto auto;
+grid-template-rows: auto auto auto auto;
+margin: auto;
+}
+
+#display
+{
+    text-align: right;
+    font-size:xx-large;
+    margin:0 auto;
+    width:98vw;
+
+}
+
+h1:hover {
+    background-color: yellow;
+}
+
